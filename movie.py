@@ -114,7 +114,8 @@ COOKIE_LIST = [
 		'bid="xmCn1TxDAMc"; ll="118201"; __utma=30149280.416461866.1394295369.1394295369.1394295369.1; __utmb=30149280.1.10.1394295369; __utmc=30149280; __utmz=30149280.1394295369.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=223695111.595062404.1394295370.1394295370.1394295370.1; __utmb=223695111.1.10.1394295370; __utmc=223695111; __utmz=223695111.1394295370.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)',
 		'bid="gH6EoAVYoOA"; ll="118201"; __utma=30149280.1518653905.1394295426.1394295426.1394295426.1; __utmb=30149280.2.10.1394295426; __utmc=30149280; __utmz=30149280.1394295426.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=223695111.2123450746.1394295426.1394295426.1394295426.1; __utmb=223695111.2.10.1394295426; __utmc=223695111; __utmz=223695111.1394295426.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)',
 		'bid="TMt7UC8EKY8"; ll="118201"; __utma=30149280.1812931489.1394295503.1394295503.1394295503.1; __utmb=30149280.1.10.1394295503; __utmc=30149280; __utmz=30149280.1394295503.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=223695111.1686323383.1394295503.1394295503.1394295503.1; __utmb=223695111.1.10.1394295503; __utmc=223695111; __utmz=223695111.1394295503.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)',
-		'bid="p/pHVKhA+54"; __utma=30149280.307115621.1388152439.1394343515.1394346213.32; __utmz=30149280.1392477863.17.11.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=%E8%B1%86%E7%93%A3%E9%AA%8C%E8%AF%81%E7%A0%81%20%E7%A0%B4%E8%A7%A3; ll="118201"; __utma=223695111.25818725.1388834193.1392651799.1394346226.6; __utmz=223695111.1392651799.5.4.utmcsr=book.douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/subject/7964416/; push_noty_num=1; push_doumail_num=0; __utmv=30149280.4684; ct=y; viewed="2056210_2055369_1796484_2055157_2042131_2010197_2006771_2006770_2006056_1043972"; __utmc=30149280; __utmb=30149280.2.10.1394346213; __utmb=223695111.0.10.1394346226; __utmc=223695111'
+		'bid="p/pHVKhA+54"; __utma=30149280.307115621.1388152439.1394343515.1394346213.32; __utmz=30149280.1392477863.17.11.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=%E8%B1%86%E7%93%A3%E9%AA%8C%E8%AF%81%E7%A0%81%20%E7%A0%B4%E8%A7%A3; ll="118201"; __utma=223695111.25818725.1388834193.1392651799.1394346226.6; __utmz=223695111.1392651799.5.4.utmcsr=book.douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/subject/7964416/; push_noty_num=1; push_doumail_num=0; __utmv=30149280.4684; ct=y; viewed="2056210_2055369_1796484_2055157_2042131_2010197_2006771_2006770_2006056_1043972"; __utmc=30149280; __utmb=30149280.2.10.1394346213; __utmb=223695111.0.10.1394346226; __utmc=223695111',
+		'bid="WzfeXU2r9Bw"; viewed="2998826_2167741"; __utma=30149280.1442858129.1412687575.1414308898.1414314601.6; __utmz=30149280.1414154877.4.2.utmcsr=baidu|utmccn=(organic)|utmcmd=organic|utmctr=%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BD%91%E7%AB%99; ll="118201"; __utma=223695111.1871680365.1413105365.1413105365.1414314605.2; __utmz=223695111.1414314605.2.2.utmcsr=douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/; _pk_ref.100001.4cf6=%5B%22%22%2C%22%22%2C1414314605%2C%22http%3A%2F%2Fwww.douban.com%2F%22%5D; _pk_id.100001.4cf6=fd720ca80024096e.1413105365.2.1414314614.1413105371.; __utmc=30149280; __utmb=30149280.1.10.1414314601; __utmt=1; __utmb=223695111.2.10.1414314605; __utmc=223695111; _pk_ses.100001.4cf6=*'
 		]
 
 headers_list = []
@@ -126,10 +127,11 @@ for cookies in COOKIE_LIST:
 			'Cache-Control':'max-age=0',
 			'Connection':'close',
 			#'Connection':'keep-alive',
-			#'Cookie':cookies,
+			'Cookie':cookies,
 			#'Host':'book.douban.com',
 			#'Referer':'http://www.douban.com/',
-			'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36'
+			#'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36'
+			'User-Agent':'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:33.0) Gecko/20100101 Firefox/33.0'
 			}
 	headers_list.append(header)
 
@@ -282,11 +284,11 @@ for i in range(5):
 def main():
 	IP_PORT_DICT = {}
 	url = "http://book.douban.com/subject/"
-	first = 2000001
+	first = 3000001
 	#first = 4202001
 	#first = 4202900
 	count = 2000000
-	i = 998796
+	i = 27159
 	#IP_PORT_DICT = get_IP_PORT()
 	#print (IP_PORT_DICT)
 	#for i in range(count):
