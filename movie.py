@@ -243,7 +243,7 @@ def worker():
 	while True:
 		arguments = work_queue.get()
 		istype, title, average, vote = get_move_values(arguments[0], arguments[1], arguments[2])
-		value_str = "%s     %s  %s  %s"%(title, average, vote, arguments[0])
+		value_str = "%s		%s	%s	%s"%(title, average, vote, arguments[0])
 		if istype == move_type:
 			if not movie_lock.acquire(timeout=3):
 				movie_lock.release()
@@ -288,7 +288,7 @@ def main():
 	#first = 4202001
 	#first = 4202900
 	count = 2000000
-	i = 27159
+	i = 74275
 	#IP_PORT_DICT = get_IP_PORT()
 	#print (IP_PORT_DICT)
 	#for i in range(count):
