@@ -25750,3 +25750,734 @@
         又是冤家又聚头 (豆瓣)		0	0	http://book.douban.com/subject/3081494
         Solarbabies (豆瓣)		0	0	http://book.douban.com/subject/3081496
         末日惊魂 (豆瓣)		0	0	http://book.douban.com/subject/3081500
+        笑傲在明天 (豆瓣)		0	0	http://book.douban.com/subject/3081502
+        罪犯 (豆瓣)		0	0	http://book.douban.com/subject/3081510
+        龙的天空 (豆瓣)		7.5	33	http://book.douban.com/subject/3081508
+        阿兰和诺米 (豆瓣)		0	0	http://book.douban.com/subject/3081512
+        David and Lisa (豆瓣)		0	0	http://book.douban.com/subject/3081514
+        卡拉屋企 (豆瓣)		7.8	86	http://book.douban.com/subject/3081511
+        午夜太阳 (豆瓣)		8.2	131	http://book.douban.com/subject/3081518
+        A love to keep (豆瓣)		0	0	http://book.douban.com/subject/3081523
+        大地飞鹰 (豆瓣)		6.8	29	http://book.douban.com/subject/3081522
+        Honning måne (豆瓣)		0	0	http://book.douban.com/subject/3081527
+        新同居关系 (豆瓣)		8.5	241	http://book.douban.com/subject/3081531
+        Lathe of Heaven (豆瓣)		0	0	http://book.douban.com/subject/3081533
+        Dingle, Barry (豆瓣)		0	0	http://book.douban.com/subject/3081537
+        The Cradle (豆瓣)		0	0	http://book.douban.com/subject/3081540
+        Beanstalk (豆瓣)		0	0	http://book.douban.com/subject/3081544
+        The Incredible Genie (豆瓣)		0	0	http://book.douban.com/subject/3081547
+        Stewart Lee's Comedy Vehicle Season 1 (豆瓣)		0	0	http://book.douban.com/subject/3081553
+        难以接近的真相 (豆瓣)		0	0	http://book.douban.com/subject/3081548
+        奇可和丽塔 (豆瓣)		7.5	1181	http://book.douban.com/subject/3081561
+        The Boy with the X-Ray Eyes (豆瓣)		0	0	http://book.douban.com/subject/3081550
+        Retrato de Carlos Saura (豆瓣)		0	0	http://book.douban.com/subject/3081565
+        Resurrection (豆瓣)		0	0	http://book.douban.com/subject/3081582
+        On Probation (豆瓣)		0	0	http://book.douban.com/subject/3081583
+        Apollo Thorne (豆瓣)		0	0	http://book.douban.com/subject/3081585
+        M.N.P. (豆瓣)		0	0	http://book.douban.com/subject/3081579
+        Camila and Adriana (豆瓣)		0	0	http://book.douban.com/subject/3081589
+        爸爸 节日快乐 (豆瓣)		0	0	http://book.douban.com/subject/3081599
+        客人 (豆瓣)		0	0	http://book.douban.com/subject/3081618
+        鬼肢解 (豆瓣)		6.8	5142	http://book.douban.com/subject/3081622
+        Old Flames (豆瓣)		0	0	http://book.douban.com/subject/3081639
+        红夜 (豆瓣)		5.7	81	http://book.douban.com/subject/3081664
+        风暴模型 (豆瓣)		5.1	144	http://book.douban.com/subject/3081743
+        天外奇遇 (豆瓣)		9.5	152	http://book.douban.com/subject/3081869
+        Filth: The Mary Whitehouse Story (豆瓣)		0	0	http://book.douban.com/subject/3081900
+        暂停 (豆瓣)		5.8	284	http://book.douban.com/subject/3081946
+        Scenic Highway (豆瓣)		0	0	http://book.douban.com/subject/3081972
+        Conversion (豆瓣)		0	0	http://book.douban.com/subject/3081971
+        Painter of the Land (豆瓣)		0	0	http://book.douban.com/subject/3081974
+        The Queen's Sister (豆瓣)		0	0	http://book.douban.com/subject/3081985
+        百变小姬子 (豆瓣)		8.1	179	http://book.douban.com/subject/3082008
+        勇者特急 (豆瓣)		7.8	181	http://book.douban.com/subject/3082015
+        各种起源的蓝色 (豆瓣)		0	0	http://book.douban.com/subject/3082021
+        水浒少年 (豆瓣)		7.9	354	http://book.douban.com/subject/3082047
+        Dolly Back (豆瓣)		0	0	http://book.douban.com/subject/3082054
+        La Reina del bar Canalla (豆瓣)		0	0	http://book.douban.com/subject/3082060
+        Equipajes (豆瓣)		0	0	http://book.douban.com/subject/3082069
+        Niño vudú (豆瓣)		0	0	http://book.douban.com/subject/3082072
+        Noches áticas (豆瓣)		0	0	http://book.douban.com/subject/3082075
+        Ojos de fuego (豆瓣)		0	0	http://book.douban.com/subject/3082077
+        Niños envueltos (豆瓣)		0	0	http://book.douban.com/subject/3082078
+        石头娃 (豆瓣)		0	0	http://book.douban.com/subject/3082076
+        Couch (豆瓣)		0	0	http://book.douban.com/subject/3082083
+        The Crooked Eye (豆瓣)		0	0	http://book.douban.com/subject/3082084
+        Falling (豆瓣)		0	0	http://book.douban.com/subject/3082088
+        The Dot Man (豆瓣)		0	0	http://book.douban.com/subject/3082086
+        Hundeleben (豆瓣)		0	0	http://book.douban.com/subject/3082096
+        格鲁吉亚之夏 (豆瓣)		7.5	451	http://book.douban.com/subject/3082098
+        魔女之刃 (豆瓣)		0	0	http://book.douban.com/subject/3082107
+        Os Amores da Pantera (豆瓣)		0	0	http://book.douban.com/subject/3082199
+        Carne de tu carne (豆瓣)		0	0	http://book.douban.com/subject/3082207
+        最后的凝视 (豆瓣)		0	0	http://book.douban.com/subject/3082214
+        沉寂之桥 (豆瓣)		0	0	http://book.douban.com/subject/3082218
+        懵女大贼傻侦探 (豆瓣)		0	0	http://book.douban.com/subject/3082223
+        Invisible Monsters (豆瓣)		0	0	http://book.douban.com/subject/3082334
+        Kiss of Death (豆瓣)		0	0	http://book.douban.com/subject/3082394
+        青苔 (豆瓣)		6.5	4345	http://book.douban.com/subject/3082393
+        六楼后座2家属谢礼 (豆瓣)		6.5	5432	http://book.douban.com/subject/3082396
+        味增汤 (豆瓣)		0	0	http://book.douban.com/subject/3082407
+        狼牙 (豆瓣)		6.0	20371	http://book.douban.com/subject/3082452
+        秘境里斯本 (豆瓣)		7.4	605	http://book.douban.com/subject/3082472
+        The Roaring Girl (豆瓣)		0	0	http://book.douban.com/subject/3082480
+        Sweet Baby Jesus (豆瓣)		0	0	http://book.douban.com/subject/3082489
+        Waco (豆瓣)		0	0	http://book.douban.com/subject/3082490
+        What Else Emmanuelle? (豆瓣)		0	0	http://book.douban.com/subject/3082493
+        A Day With Thomas A. Edison (豆瓣)		0	0	http://book.douban.com/subject/3082501
+        Untitled Kornel Mundruczo Project (豆瓣)		0	0	http://book.douban.com/subject/3082502
+        秩序和道德 (豆瓣)		7.0	581	http://book.douban.com/subject/3082518
+        Untitled Wendy Diane Miller Project (豆瓣)		0	0	http://book.douban.com/subject/3082510
+        Replay (豆瓣)		7.8	68	http://book.douban.com/subject/3082521
+        雪地逃生 (豆瓣)		7.2	58	http://book.douban.com/subject/3082525
+        Sudden Fury: A Family Torn Apart (豆瓣)		0	0	http://book.douban.com/subject/3082524
+        Purple People Eater (豆瓣)		0	0	http://book.douban.com/subject/3082517
+        The Man in the Attic (豆瓣)		0	0	http://book.douban.com/subject/3082529
+        Animal Room (豆瓣)		0	0	http://book.douban.com/subject/3082534
+        亮牌时刻 (豆瓣)		6.9	124	http://book.douban.com/subject/3082526
+        Not Our Son (豆瓣)		0	0	http://book.douban.com/subject/3082538
+        情欲失格 (豆瓣)		0	0	http://book.douban.com/subject/3082541
+        The Mesmerist (豆瓣)		0	0	http://book.douban.com/subject/3082546
+        The Christmas Blessing (豆瓣)		0	0	http://book.douban.com/subject/3082548
+        杯酒人生 (豆瓣)		6.8	71	http://book.douban.com/subject/3082550
+        Sherlock's Secretary (豆瓣)		0	0	http://book.douban.com/subject/3082551
+        Eat the Rich (豆瓣)		0	0	http://book.douban.com/subject/3082567
+        安息 (豆瓣)		4.5	875	http://book.douban.com/subject/3082634
+        Stain in the Snow (豆瓣)		0	0	http://book.douban.com/subject/3082636
+        Sultan Bey Bars (豆瓣)		0	0	http://book.douban.com/subject/3082638
+        古老国度的传说 (豆瓣)		2.4	39	http://book.douban.com/subject/3082639
+        Twilight (豆瓣)		0	0	http://book.douban.com/subject/3082646
+        Julia Belgrove (豆瓣)		0	0	http://book.douban.com/subject/3082653
+        Magdalena (豆瓣)		0	0	http://book.douban.com/subject/3082659
+        Mangez moi (豆瓣)		0	0	http://book.douban.com/subject/3082657
+        Zoot Suit Riots (豆瓣)		0	0	http://book.douban.com/subject/3082831
+        So what! Two tales of Juvenile Delinquency (豆瓣)		0	0	http://book.douban.com/subject/3082846
+        悄悄跟着我 (豆瓣)		0	0	http://book.douban.com/subject/3082854
+        How to Play Golf (豆瓣)		0	0	http://book.douban.com/subject/3082857
+        耶路撒冷的墙 (豆瓣)		0	0	http://book.douban.com/subject/3082860
+        医生和老人 (豆瓣)		0	0	http://book.douban.com/subject/3082880
+        木乃伊战士 (豆瓣)		8.6	620	http://book.douban.com/subject/3082905
+        800 Two Lap Runners (豆瓣)		0	0	http://book.douban.com/subject/3082951
+        唐山绝恋 (豆瓣)		6.4	31	http://book.douban.com/subject/3083086
+        九指新娘 (豆瓣)		6.2	52	http://book.douban.com/subject/3083088
+        紧急救命 (豆瓣)		8.0	19310	http://book.douban.com/subject/3083087
+        安徒生讲故事 (豆瓣)		8.6	264	http://book.douban.com/subject/3083089
+        伦敦流浪记 (豆瓣)		0	0	http://book.douban.com/subject/3083152
+        S Is for Sexy (豆瓣)		0	0	http://book.douban.com/subject/3083848
+        怒吼吧，小狗！ (豆瓣)		8.5	197	http://book.douban.com/subject/3084058
+        最后的把戏 (豆瓣)		7.8	591	http://book.douban.com/subject/3086712
+        After Pilkington (豆瓣)		0	0	http://book.douban.com/subject/3086746
+        异形人种 (豆瓣)		0	0	http://book.douban.com/subject/3086749
+        Century (豆瓣)		0	0	http://book.douban.com/subject/3086756
+        祖国 (豆瓣)		6.9	98	http://book.douban.com/subject/3086761
+        圣埃克苏佩里 (豆瓣)		0	0	http://book.douban.com/subject/3086765
+        Swann (豆瓣)		0	0	http://book.douban.com/subject/3086771
+        The Designated Mourner (豆瓣)		0	0	http://book.douban.com/subject/3086774
+        Professional Sweetheart (豆瓣)		0	0	http://book.douban.com/subject/3086775
+        The Scold's Bridle (豆瓣)		0	0	http://book.douban.com/subject/3086777
+        两个半爱情 (豆瓣)		0	0	http://book.douban.com/subject/3086783
+        Jacob Two Two Meets the Hooded Fang (豆瓣)		0	0	http://book.douban.com/subject/3086782
+        Los Locos (豆瓣)		0	0	http://book.douban.com/subject/3086799
+        Loser Love (豆瓣)		7.7	47	http://book.douban.com/subject/3086800
+        日本国古屋敷村 (豆瓣)		9.1	154	http://book.douban.com/subject/3086804
+        The Independent (豆瓣)		0	0	http://book.douban.com/subject/3086807
+        在你心中 (豆瓣)		0	0	http://book.douban.com/subject/3086816
+        The Deliberate Stranger (豆瓣)		0	0	http://book.douban.com/subject/3086817
+        Every Breath (豆瓣)		0	0	http://book.douban.com/subject/3086821
+        The Destiny of Marty Fine (豆瓣)		0	0	http://book.douban.com/subject/3086829
+        乱语真言 (豆瓣)		6.0	24	http://book.douban.com/subject/3086831
+        Thank Heaven (豆瓣)		0	0	http://book.douban.com/subject/3086834
+        A Problem with Fear (豆瓣)		0	0	http://book.douban.com/subject/3086836
+        Hard Four (豆瓣)		0	0	http://book.douban.com/subject/3086839
+        Beau Jest (豆瓣)		0	0	http://book.douban.com/subject/3086843
+        挑战姐妹情 (豆瓣)		6.2	79	http://book.douban.com/subject/3086847
+        罗马丽人行 (豆瓣)		6.1	347	http://book.douban.com/subject/3086852
+        To Grandmother's House We Go (豆瓣)		0	0	http://book.douban.com/subject/3086859
+        奔向盐湖城 (豆瓣)		6.1	149	http://book.douban.com/subject/3086857
+        阳光下的假日 (豆瓣)		5.2	25	http://book.douban.com/subject/3086862
+        How the West Was Fun (豆瓣)		0	0	http://book.douban.com/subject/3086865
+        美丽的背后 (豆瓣)		0	0	http://book.douban.com/subject/3086868
+        Silver Strand (豆瓣)		0	0	http://book.douban.com/subject/3086874
+        Pursued (豆瓣)		0	0	http://book.douban.com/subject/3086884
+        Zeyda and the Hitman (豆瓣)		0	0	http://book.douban.com/subject/3086897
+        Mermaid Island (豆瓣)		0	0	http://book.douban.com/subject/3086945
+        The Miso Soup (豆瓣)		0	0	http://book.douban.com/subject/3087043
+        Monkey's Paw (豆瓣)		0	0	http://book.douban.com/subject/3087045
+        Soft Target (豆瓣)		0	0	http://book.douban.com/subject/3087112
+        Power Patty (豆瓣)		0	0	http://book.douban.com/subject/3087199
+        塔加路反击战 (豆瓣)		3.3	83	http://book.douban.com/subject/3087202
+        汤姆历险记 (豆瓣)		0	0	http://book.douban.com/subject/3087206
+        Glasses (豆瓣)		0	0	http://book.douban.com/subject/3087219
+        Toccata For Toy Trains (豆瓣)		0	0	http://book.douban.com/subject/3087222
+        Hezurbeltzak, una fosa común (豆瓣)		0	0	http://book.douban.com/subject/3087227
+        Caraballo mató un gallo (豆瓣)		0	0	http://book.douban.com/subject/3087236
+        Rainbow Around the Sun (豆瓣)		0	0	http://book.douban.com/subject/3087262
+        危险游戏 (豆瓣)		0	0	http://book.douban.com/subject/3087279
+        智力测验 (豆瓣)		0	0	http://book.douban.com/subject/3087283
+        Wild Blue Yonder (豆瓣)		0	0	http://book.douban.com/subject/3087288
+        说吧，小哑巴 (豆瓣)		0	0	http://book.douban.com/subject/3087296
+        地狱中的唐璜 (豆瓣)		0	0	http://book.douban.com/subject/3087301
+        天堂客栈 (豆瓣)		0	0	http://book.douban.com/subject/3087308
+        希区柯克剧场 第二季 (豆瓣)		8.8	283	http://book.douban.com/subject/3087310
+        Biotaxia (豆瓣)		0	0	http://book.douban.com/subject/3087319
+        Iconockaut (豆瓣)		0	0	http://book.douban.com/subject/3087321
+        Sexperiencias (豆瓣)		0	0	http://book.douban.com/subject/3087323
+        幕后杀手 (豆瓣)		0	0	http://book.douban.com/subject/3087325
+        放学后的屋顶 (豆瓣)		6.5	1508	http://book.douban.com/subject/3087326
+        Exhibit A (豆瓣)		0	0	http://book.douban.com/subject/3087338
+        彩弹球 (豆瓣)		5.1	56	http://book.douban.com/subject/3087340
+        杀人道具 (豆瓣)		0	0	http://book.douban.com/subject/3087334
+        心路 (豆瓣)		0	0	http://book.douban.com/subject/3087357
+        英嘉 (豆瓣)		0	0	http://book.douban.com/subject/3087361
+        警察故事 (豆瓣)		0	0	http://book.douban.com/subject/3087430
+        天蝎行动 (豆瓣)		7.7	106	http://book.douban.com/subject/3087429
+        非常接触 (豆瓣)		6.8	23	http://book.douban.com/subject/3087432
+        白色梦幻 (豆瓣)		7.2	31	http://book.douban.com/subject/3087431
+        谎言 (豆瓣)		0	0	http://book.douban.com/subject/3087436
+        大沙暴 (豆瓣)		5.0	108	http://book.douban.com/subject/3087437
+        一脚定江山 (豆瓣)		6.6	7137	http://book.douban.com/subject/3087439
+        梧桐雨 (豆瓣)		6.8	2328	http://book.douban.com/subject/3087440
+        极道学园 (豆瓣)		6.2	161	http://book.douban.com/subject/3087435
+        男人底线 (豆瓣)		7.1	92	http://book.douban.com/subject/3087444
+        乱世桃花 (豆瓣)		6.3	955	http://book.douban.com/subject/3087434
+        珍珠彩衣 (豆瓣)		7.1	87	http://book.douban.com/subject/3087442
+        家庭连续剧 (豆瓣)		8.8	471	http://book.douban.com/subject/3087445
+        东海道惊魂 (豆瓣)		0	0	http://book.douban.com/subject/3087446
+        无盐女 (豆瓣)		6.3	566	http://book.douban.com/subject/3087443
+        汶川 (豆瓣)		0	0	http://book.douban.com/subject/3087470
+        高校三侠 (豆瓣)		8.3	68	http://book.douban.com/subject/3087471
+        无字碑歌：武则天传 (豆瓣)		6.8	53	http://book.douban.com/subject/3087472
+        童年游戏 (豆瓣)		8.7	115	http://book.douban.com/subject/3087473
+        蜂蜜幸运草 (豆瓣)		6.9	3220	http://book.douban.com/subject/3087484
+        缩水情人 (豆瓣)		8.5	6646	http://book.douban.com/subject/3087483
+        大秦腔 (豆瓣)		8.9	68	http://book.douban.com/subject/3087486
+        绿林寮：青春男生宿舍日志 (豆瓣)		6.5	217	http://book.douban.com/subject/3087487
+        美丽人生 (豆瓣)		6.8	160	http://book.douban.com/subject/3087488
+        "Great Performances" The Collection (TV) (豆瓣)		0	0	http://book.douban.com/subject/3087495
+        愛の濃淡 (豆瓣)		0	0	http://book.douban.com/subject/3087501
+页面不存在		0	0	http://book.douban.com/subject/3087502
+        火线任务 (豆瓣)		7.0	103	http://book.douban.com/subject/3087503
+        谁怜天下慈母心 (豆瓣)		7.2	30	http://book.douban.com/subject/3087505
+        西街少年 (豆瓣)		6.3	945	http://book.douban.com/subject/3087504
+        大学门 (豆瓣)		0	0	http://book.douban.com/subject/3087508
+        威尼斯恋人 (豆瓣)		6.5	2777	http://book.douban.com/subject/3087506
+        凡人杨大头 (豆瓣)		6.8	418	http://book.douban.com/subject/3087500
+        新笑林小子之我最棒 (豆瓣)		5.6	44	http://book.douban.com/subject/3087507
+        悲伤的诱惑 (豆瓣)		7.8	105	http://book.douban.com/subject/3087534
+        唐山孤儿 (豆瓣)		0	0	http://book.douban.com/subject/3087536
+        邻近城市战争 (豆瓣)		6.8	183	http://book.douban.com/subject/3087535
+        爸妈不容易 (豆瓣)		7.2	36	http://book.douban.com/subject/3087538
+        天涯海角 (豆瓣)		7.1	276	http://book.douban.com/subject/3087541
+        三个夏天 (豆瓣)		7.7	1702	http://book.douban.com/subject/3087540
+        好男要当兵 (豆瓣)		0	0	http://book.douban.com/subject/3087542
+        好想回家 (豆瓣)		7.2	52	http://book.douban.com/subject/3087539
+        商鞅传奇 (豆瓣)		0	0	http://book.douban.com/subject/3087565
+        潜艇总动员 (豆瓣)		3.8	81	http://book.douban.com/subject/3087564
+        女人的选择 (豆瓣)		7.3	26	http://book.douban.com/subject/3087566
+        单身宿舍连环泡 (豆瓣)		0	0	http://book.douban.com/subject/3087567
+        嗨，亲爱的 (豆瓣)		0	0	http://book.douban.com/subject/3087572
+        天堂来的孩子 (豆瓣)		7.0	416	http://book.douban.com/subject/3087570
+        星愿 (豆瓣)		7.0	440	http://book.douban.com/subject/3087571
+        捍卫 (豆瓣)		0	0	http://book.douban.com/subject/3087563
+        追风少年 (豆瓣)		6.7	38	http://book.douban.com/subject/3087573
+        野性男人 (豆瓣)		0	0	http://book.douban.com/subject/3087595
+        金蝎计划 (豆瓣)		0	0	http://book.douban.com/subject/3087601
+        醉死人生 (豆瓣)		0	0	http://book.douban.com/subject/3087603
+        A Fix (豆瓣)		0	0	http://book.douban.com/subject/3087605
+        Loser (豆瓣)		0	0	http://book.douban.com/subject/3087594
+        My Sweet Killer (豆瓣)		0	0	http://book.douban.com/subject/3087612
+        绝境 (豆瓣)		0	0	http://book.douban.com/subject/3087613
+        Hard Luck (豆瓣)		0	0	http://book.douban.com/subject/3087615
+        Cavalier suédois, Le (豆瓣)		0	0	http://book.douban.com/subject/3087616
+        The Doorman (豆瓣)		0	0	http://book.douban.com/subject/3087619
+        Jewslim (豆瓣)		0	0	http://book.douban.com/subject/3087621
+        巴黎男人香 (豆瓣)		6.9	638	http://book.douban.com/subject/3087625
+        The Gray in Between (豆瓣)		0	0	http://book.douban.com/subject/3087630
+        Ghosthunters (豆瓣)		0	0	http://book.douban.com/subject/3087631
+        The Gamekeeper (豆瓣)		0	0	http://book.douban.com/subject/3087635
+        Zoya (豆瓣)		0	0	http://book.douban.com/subject/3087636
+        The HAB Theory (豆瓣)		0	0	http://book.douban.com/subject/3087637
+        新来的人 (豆瓣)		0	0	http://book.douban.com/subject/3087641
+        The Great Khan (豆瓣)		0	0	http://book.douban.com/subject/3087644
+        牛仔之家 (豆瓣)		0	0	http://book.douban.com/subject/3087647
+        辩论赛 (豆瓣)		0	0	http://book.douban.com/subject/3087651
+        母爱 (豆瓣)		0	0	http://book.douban.com/subject/3087652
+        口袋忍者 (豆瓣)		0	0	http://book.douban.com/subject/3087656
+        冲出阴影 (豆瓣)		0	0	http://book.douban.com/subject/3087658
+        吾识吾名 (豆瓣)		0	0	http://book.douban.com/subject/3087660
+        晨星之子 (豆瓣)		8.9	27	http://book.douban.com/subject/3087666
+        Inner Child (豆瓣)		0	0	http://book.douban.com/subject/3087667
+        Graphic (豆瓣)		0	0	http://book.douban.com/subject/3087669
+        喷气机男孩 (豆瓣)		7.8	240	http://book.douban.com/subject/3087672
+        Streetwalkin' (豆瓣)		0	0	http://book.douban.com/subject/3087676
+        地狱周末 (豆瓣)		0	0	http://book.douban.com/subject/3087677
+        Johnny Appleseed (豆瓣)		0	0	http://book.douban.com/subject/3087680
+        Dallas: The Early Years (豆瓣)		0	0	http://book.douban.com/subject/3087681
+        旋风车手 (豆瓣)		0	0	http://book.douban.com/subject/3087673
+        海明威传 (豆瓣)		0	0	http://book.douban.com/subject/3087679
+        争夺珍妮 (豆瓣)		0	0	http://book.douban.com/subject/3087691
+        Elvis and Me (豆瓣)		0	0	http://book.douban.com/subject/3087689
+        A Cry for Help: The Tracey Thurman Story (豆瓣)		0	0	http://book.douban.com/subject/3087696
+        谁是母亲 (豆瓣)		0	0	http://book.douban.com/subject/3087702
+        Sins of the Mother (豆瓣)		0	0	http://book.douban.com/subject/3087707
+        费舍尔医生 (豆瓣)		0	0	http://book.douban.com/subject/3087708
+        丑女贝蒂 第一季 (豆瓣)		7.8	17368	http://book.douban.com/subject/3087710
+        迂夫智妻 (豆瓣)		0	0	http://book.douban.com/subject/3087714
+        赤胆追凶 (豆瓣)		7.8	28	http://book.douban.com/subject/3087717
+        Face Value (豆瓣)		0	0	http://book.douban.com/subject/3087704
+        Ed McBain's 87th Precinct: Heatwave (豆瓣)		0	0	http://book.douban.com/subject/3087720
+        抓鬼特攻队 (豆瓣)		5.9	52	http://book.douban.com/subject/3087726
+        老爸向前冲 (豆瓣)		7.0	651	http://book.douban.com/subject/3087728
+        兵变1938 (豆瓣)		0	0	http://book.douban.com/subject/3087727
+        惊世媳妇 (豆瓣)		7.3	60	http://book.douban.com/subject/3087730
+        Visitors of the Night (豆瓣)		0	0	http://book.douban.com/subject/3087716
+        魔天战神 (豆瓣)		8.3	139	http://book.douban.com/subject/3087732
+        妙厨老爹 (豆瓣)		8.3	905	http://book.douban.com/subject/3087733
+        千年之爱 (豆瓣)		6.2	413	http://book.douban.com/subject/3087731
+        詹妮之歌 (豆瓣)		0	0	http://book.douban.com/subject/3087738
+        移山倒海樊梨花 (豆瓣)		6.2	214	http://book.douban.com/subject/3087729
+        爱情与谎言 (豆瓣)		0	0	http://book.douban.com/subject/3087741
+        爱情与盗窃 (豆瓣)		0	0	http://book.douban.com/subject/3087743
+        Cuentos de hadas para dormir cocodrilos (豆瓣)		0	0	http://book.douban.com/subject/3087746
+        无悔今生 (豆瓣)		0	0	http://book.douban.com/subject/3087745
+        铁人 (豆瓣)		0	0	http://book.douban.com/subject/3087747
+        争先恐后 (豆瓣)		0	0	http://book.douban.com/subject/3087749
+        黄色领骑衫 (豆瓣)		0	0	http://book.douban.com/subject/3087779
+        死亡公路666 (豆瓣)		3.8	24	http://book.douban.com/subject/3087787
+        爱是梦想的延伸 (豆瓣)		7.8	35	http://book.douban.com/subject/3087800
+        Breaking the Fifth (豆瓣)		0	0	http://book.douban.com/subject/3087816
+        Totally Baked: A Pot-U-Mentary (豆瓣)		0	0	http://book.douban.com/subject/3087807
+        Cycles (豆瓣)		0	0	http://book.douban.com/subject/3087820
+        Em (豆瓣)		0	0	http://book.douban.com/subject/3087823
+        周一热潮 (豆瓣)		0	0	http://book.douban.com/subject/3087825
+        啦啦队长大屠杀 (豆瓣)		0	0	http://book.douban.com/subject/3087831
+        Bloody Murder 2: Closing Camp (豆瓣)		0	0	http://book.douban.com/subject/3087829
+        战斗女孩 (豆瓣)		0	0	http://book.douban.com/subject/3087858
+        Rez Bomb (豆瓣)		0	0	http://book.douban.com/subject/3087861
+        One (豆瓣)		0	0	http://book.douban.com/subject/3087864
+        分秒枪疯 (豆瓣)		0	0	http://book.douban.com/subject/3087880
+        Donna on Demand (豆瓣)		0	0	http://book.douban.com/subject/3087901
+        The Hit (豆瓣)		0	0	http://book.douban.com/subject/3087891
+        Finders Keepers (豆瓣)		0	0	http://book.douban.com/subject/3087908
+        Last Chance (豆瓣)		0	0	http://book.douban.com/subject/3087911
+        License to Drive (豆瓣)		0	0	http://book.douban.com/subject/3087914
+        乌龙记者 (豆瓣)		0	0	http://book.douban.com/subject/3087916
+        Death Has a Bad Reputation (豆瓣)		0	0	http://book.douban.com/subject/3087919
+        杀死克鲁斯 (豆瓣)		0	0	http://book.douban.com/subject/3087931
+        Salam (豆瓣)		0	0	http://book.douban.com/subject/3087942
+        星路漫漫 (豆瓣)		0	0	http://book.douban.com/subject/3087948
+        星期日学校 (豆瓣)		0	0	http://book.douban.com/subject/3087953
+        犯罪 (豆瓣)		0	0	http://book.douban.com/subject/3087956
+        一本小说的诞生 (豆瓣)		0	0	http://book.douban.com/subject/3087963
+        Un Largo Silencio (豆瓣)		0	0	http://book.douban.com/subject/3087967
+        48 heures par jour (豆瓣)		0	0	http://book.douban.com/subject/3087982
+        哦！。。。孩子们 (豆瓣)		0	0	http://book.douban.com/subject/3087983
+        Ezra (豆瓣)		0	0	http://book.douban.com/subject/3088015
+        Les Hommes (豆瓣)		0	0	http://book.douban.com/subject/3088023
+        Eyetoon (豆瓣)		0	0	http://book.douban.com/subject/3088056
+        The Touchables (豆瓣)		0	0	http://book.douban.com/subject/3088372
+        "Johnny Vegas: 18 Stone of Idiot" (豆瓣)		0	0	http://book.douban.com/subject/3088370
+页面不存在		0	0	http://book.douban.com/subject/3088385
+        无情海峡有情天 (豆瓣)		7.5	47	http://book.douban.com/subject/3088387
+        为你疯狂 (豆瓣)		5.5	24	http://book.douban.com/subject/3088388
+        啼笑因缘 (豆瓣)		6.3	394	http://book.douban.com/subject/3088389
+        师奶股神 (豆瓣)		6.2	880	http://book.douban.com/subject/3088392
+        大明宫 (豆瓣)		8.5	5022	http://book.douban.com/subject/3088390
+        Trombone Trouble (豆瓣)		0	0	http://book.douban.com/subject/3088410
+        The Plastics Inventor (豆瓣)		0	0	http://book.douban.com/subject/3088415
+        Donald's Off Day (豆瓣)		0	0	http://book.douban.com/subject/3088421
+        Donald Duck and the Gorilla (豆瓣)		0	0	http://book.douban.com/subject/3088425
+        山樱 (豆瓣)		8.0	923	http://book.douban.com/subject/3088427
+        见习律师 (豆瓣)		0	0	http://book.douban.com/subject/3088431
+        恋爱不可承受之轻 (豆瓣)		7.2	674	http://book.douban.com/subject/3088430
+        难忘的战斗 (豆瓣)		6.5	60	http://book.douban.com/subject/3088432
+        雨花朵朵 (豆瓣)		7.8	31	http://book.douban.com/subject/3088428
+        南行记 (豆瓣)		7.7	32	http://book.douban.com/subject/3088429
+        罗密欧与朱丽叶 (豆瓣)		6.4	37	http://book.douban.com/subject/3088438
+        晴姿　おんな絵巻 (豆瓣)		0	0	http://book.douban.com/subject/3088464
+        恋爱猎人 (豆瓣)		0	0	http://book.douban.com/subject/3088481
+        ＯＬ日記 雌猫の匂い (豆瓣)		0	0	http://book.douban.com/subject/3088490
+        药师寺凉子怪奇事件簿 (豆瓣)		7.2	2460	http://book.douban.com/subject/3088511
+        证人 (豆瓣)		7.2	56170	http://book.douban.com/subject/3088514
+        东京扫描仪 (豆瓣)		7.6	298	http://book.douban.com/subject/3088512
+        人鱼帝国 (豆瓣)		3.0	78	http://book.douban.com/subject/3088515
+        春子家有喜事了 (豆瓣)		6.7	116	http://book.douban.com/subject/3088516
+        哑巴新娘 (豆瓣)		6.0	2546	http://book.douban.com/subject/3088517
+        功夫厨神 (豆瓣)		4.5	2657	http://book.douban.com/subject/3088513
+        新天仙配 (豆瓣)		6.8	663	http://book.douban.com/subject/3088518
+        我是海鸥 (豆瓣)		0	0	http://book.douban.com/subject/3088520
+        中国轨道 (豆瓣)		9.1	40	http://book.douban.com/subject/3088521
+        无止境的杀人 (豆瓣)		6.7	970	http://book.douban.com/subject/3088519
+        四月的微笑 (豆瓣)		0	0	http://book.douban.com/subject/3088528
+        Grave of the Vampire (豆瓣)		0	0	http://book.douban.com/subject/3088536
+        The Red Lily (豆瓣)		0	0	http://book.douban.com/subject/3088555
+        群青 (豆瓣)		6.1	949	http://book.douban.com/subject/3088556
+        Journey of the Childmen: The Mighty Boosh on Tour (豆瓣)		9.8	77	http://book.douban.com/subject/3088560
+        Cimarron (豆瓣)		0	0	http://book.douban.com/subject/3088565
+        Chasing the Whale (豆瓣)		0	0	http://book.douban.com/subject/3088568
+        风行者 (豆瓣)		0	0	http://book.douban.com/subject/3088567
+        Cruisers (豆瓣)		0	0	http://book.douban.com/subject/3088561
+        依然年轻 (豆瓣)		0	0	http://book.douban.com/subject/3088573
+        Asbury Park (豆瓣)		0	0	http://book.douban.com/subject/3088575
+        血液与灰烬 (豆瓣)		0	0	http://book.douban.com/subject/3088576
+        疯狂野生活 (豆瓣)		0	0	http://book.douban.com/subject/3088577
+        On the Line (豆瓣)		0	0	http://book.douban.com/subject/3088579
+        The Check Is in the Mail (豆瓣)		0	0	http://book.douban.com/subject/3088582
+        Echo Park (豆瓣)		0	0	http://book.douban.com/subject/3088584
+        40 Love (豆瓣)		0	0	http://book.douban.com/subject/3088586
+        Season of Fear (豆瓣)		0	0	http://book.douban.com/subject/3088587
+        Vincent (豆瓣)		0	0	http://book.douban.com/subject/3088589
+        Kid (豆瓣)		0	0	http://book.douban.com/subject/3088591
+        All Boxed Up (豆瓣)		0	0	http://book.douban.com/subject/3088592
+        Adventures in Spying (豆瓣)		0	0	http://book.douban.com/subject/3088594
+        怀疑者 (豆瓣)		5.8	321	http://book.douban.com/subject/3088597
+        拳王之王 (豆瓣)		0	0	http://book.douban.com/subject/3088602
+        地狱中的奥尔菲 (豆瓣)		0	0	http://book.douban.com/subject/3088627
+        房客与妈妈 (豆瓣)		0	0	http://book.douban.com/subject/3088639
+        Natural Selection (豆瓣)		0	0	http://book.douban.com/subject/3088642
+        Gideon (豆瓣)		0	0	http://book.douban.com/subject/3088647
+        哑巴三龙 (豆瓣)		0	0	http://book.douban.com/subject/3088648
+        Hostage Negotiator (豆瓣)		0	0	http://book.douban.com/subject/3088650
+        Final Payback (豆瓣)		0	0	http://book.douban.com/subject/3088653
+        The Pennsylvania Miners' Story (豆瓣)		0	0	http://book.douban.com/subject/3088654
+        事业与荣誉3 (豆瓣)		0	0	http://book.douban.com/subject/3088659
+        浪漫爸爸 (豆瓣)		0	0	http://book.douban.com/subject/3088655
+        成春香 (豆瓣)		0	0	http://book.douban.com/subject/3088661
+        燕山君 (豆瓣)		0	0	http://book.douban.com/subject/3088663
+        Lethal Eviction (豆瓣)		0	0	http://book.douban.com/subject/3088657
+        神秘的背影 (豆瓣)		6.7	29	http://book.douban.com/subject/3088666
+页面不存在		0	0	http://book.douban.com/subject/3088667
+        Sam's Son (豆瓣)		0	0	http://book.douban.com/subject/3088672
+        Chandler Hall (豆瓣)		0	0	http://book.douban.com/subject/3088656
+        Lovelines (豆瓣)		0	0	http://book.douban.com/subject/3088674
+        有翼的狮子 (豆瓣)		0	0	http://book.douban.com/subject/3088690
+        Nightmare Beach (豆瓣)		0	0	http://book.douban.com/subject/3088692
+        Primal Rage (豆瓣)		0	0	http://book.douban.com/subject/3088694
+        仓惶逃窜2 (豆瓣)		0	0	http://book.douban.com/subject/3088710
+        Sin's Kitchen (豆瓣)		0	0	http://book.douban.com/subject/3088715
+        伙伴们 (豆瓣)		9.3	44	http://book.douban.com/subject/3088719
+        Killer Weekend (豆瓣)		0	0	http://book.douban.com/subject/3088724
+        The Collectors (豆瓣)		0	0	http://book.douban.com/subject/3088727
+        公民判决 (豆瓣)		0	0	http://book.douban.com/subject/3088730
+        Checkered Flag (豆瓣)		0	0	http://book.douban.com/subject/3088703
+        墨西哥日出 (豆瓣)		0	0	http://book.douban.com/subject/3088739
+        颤栗之年 (豆瓣)		0	0	http://book.douban.com/subject/3088745
+页面不存在		0	0	http://book.douban.com/subject/3088801
+        Cézanne: Three Colours Cézanne (豆瓣)		0	0	http://book.douban.com/subject/3088942
+        La Belle meunière (豆瓣)		0	0	http://book.douban.com/subject/3089037
+        Lettres de mon moulin (豆瓣)		0	0	http://book.douban.com/subject/3089038
+        西洋镜 (豆瓣)		0	0	http://book.douban.com/subject/3089044
+        Rolling Kansas (豆瓣)		0	0	http://book.douban.com/subject/3089071
+        恐怖礼物 (豆瓣)		0	0	http://book.douban.com/subject/3089079
+        Possums (豆瓣)		0	0	http://book.douban.com/subject/3089082
+        The Girls' Room (豆瓣)		0	0	http://book.douban.com/subject/3089084
+        Kill Me! (豆瓣)		0	0	http://book.douban.com/subject/3089089
+        Heart Stopper (豆瓣)		0	0	http://book.douban.com/subject/3089090
+        特技人 (豆瓣)		0	0	http://book.douban.com/subject/3089094
+        XCU: Extreme Close Up (豆瓣)		0	0	http://book.douban.com/subject/3089095
+        Speechless... (豆瓣)		0	0	http://book.douban.com/subject/3089097
+        My Dinner with Jimi (豆瓣)		0	0	http://book.douban.com/subject/3089101
+        Firedog (豆瓣)		0	0	http://book.douban.com/subject/3089105
+        Gone But Not Forgotten (豆瓣)		0	0	http://book.douban.com/subject/3089073
+        安德森维尔 (豆瓣)		0	0	http://book.douban.com/subject/3089111
+        绑票情缘 (豆瓣)		0	0	http://book.douban.com/subject/3089109
+        Lost (豆瓣)		0	0	http://book.douban.com/subject/3089116
+        The Junior Defenders (豆瓣)		0	0	http://book.douban.com/subject/3089118
+        Dead Pet (豆瓣)		0	0	http://book.douban.com/subject/3089122
+        吸血迷城 (豆瓣)		0	0	http://book.douban.com/subject/3089126
+        Reality Kills (豆瓣)		0	0	http://book.douban.com/subject/3089133
+        腐臭扑鼻 (豆瓣)		0	0	http://book.douban.com/subject/3089135
+        幻海童真2再战风云 (豆瓣)		0	0	http://book.douban.com/subject/3089139
+        Innocent Victims (豆瓣)		0	0	http://book.douban.com/subject/3089134
+        Wedding Bell Blues (豆瓣)		0	0	http://book.douban.com/subject/3089143
+        Tiger Town (豆瓣)		0	0	http://book.douban.com/subject/3089107
+        再起风云 (豆瓣)		6.3	99	http://book.douban.com/subject/3089160
+        刚左传奇：亨特托马森博士的前世今生 (豆瓣)		8.4	64	http://book.douban.com/subject/3089167
+        赞歌 (豆瓣)		0	0	http://book.douban.com/subject/3089169
+        不再托腮遐思 (豆瓣)		7.8	45	http://book.douban.com/subject/3089178
+        请勿打扰 (豆瓣)		5.5	77	http://book.douban.com/subject/3089195
+        Three Below Zero (豆瓣)		0	0	http://book.douban.com/subject/3089219
+        超戰士擊破!! 勝利的勇士是我 (豆瓣)		6.9	206	http://book.douban.com/subject/3089224
+        硬汉不跳舞 (豆瓣)		0	0	http://book.douban.com/subject/3089288
+        The Class of Miss MacMichael (豆瓣)		0	0	http://book.douban.com/subject/3089290
+        Tori Amos - Live From New York (豆瓣)		0	0	http://book.douban.com/subject/3089291
+        龙珠Z：燃烧吧！热战！ (豆瓣)		6.8	604	http://book.douban.com/subject/3089298
+        龙珠Z剧场版：二人危机 (豆瓣)		7.1	442	http://book.douban.com/subject/3089305
+        Downtime (豆瓣)		0	0	http://book.douban.com/subject/3089315
+        奥逊·威尔斯的堂吉诃德 (豆瓣)		7.4	121	http://book.douban.com/subject/3089307
+        Rave Review (豆瓣)		0	0	http://book.douban.com/subject/3089354
+        与斯科特共进早餐 (豆瓣)		7.4	1017	http://book.douban.com/subject/3089356
+        Power 98 (豆瓣)		0	0	http://book.douban.com/subject/3089357
+        暗夜缉凶 (豆瓣)		0	0	http://book.douban.com/subject/3089364
+        赎罪花园 (豆瓣)		0	0	http://book.douban.com/subject/3089373
+        Heartbreak Hospital (豆瓣)		0	0	http://book.douban.com/subject/3089383
+        The Circle (豆瓣)		0	0	http://book.douban.com/subject/3089386
+        神秘的尼罗河 (豆瓣)		8.4	469	http://book.douban.com/subject/3089389
+        名叫卡拉的女人 (豆瓣)		0	0	http://book.douban.com/subject/3089393
+        A Married Man (豆瓣)		0	0	http://book.douban.com/subject/3089397
+        After Darkness (豆瓣)		0	0	http://book.douban.com/subject/3089403
+        Privates on Parade (豆瓣)		0	0	http://book.douban.com/subject/3089395
+        Vibes (豆瓣)		0	0	http://book.douban.com/subject/3089407
+        Murder on the Moon (豆瓣)		0	0	http://book.douban.com/subject/3089410
+        The Turn of the Screw (豆瓣)		0	0	http://book.douban.com/subject/3089415
+        描绘第一滴血 (豆瓣)		0	0	http://book.douban.com/subject/3089418
+        猎巫 (豆瓣)		0	0	http://book.douban.com/subject/3089419
+        End of Summer (豆瓣)		0	0	http://book.douban.com/subject/3089422
+        真实的越南：亲历者的声音 (豆瓣)		0	0	http://book.douban.com/subject/3089426
+        罪恶之都 (豆瓣)		5.9	34	http://book.douban.com/subject/3089427
+        The Last Bus Home (豆瓣)		0	0	http://book.douban.com/subject/3089439
+        Love Life (豆瓣)		0	0	http://book.douban.com/subject/3089437
+        Widows' Peak (豆瓣)		0	0	http://book.douban.com/subject/3089440
+        昨日孩童 (豆瓣)		0	0	http://book.douban.com/subject/3089444
+        The Return (豆瓣)		0	0	http://book.douban.com/subject/3089446
+        英雄的摇篮：美利坚绿色贝蕾帽 (豆瓣)		0	0	http://book.douban.com/subject/3089449
+        Fighting Mad (豆瓣)		0	0	http://book.douban.com/subject/3089450
+        洛丽塔俱乐部的情歌 (豆瓣)		0	0	http://book.douban.com/subject/3089511
+        机械战警 (豆瓣)		7.7	798	http://book.douban.com/subject/3089513
+        日本一のホラ吹き男 (豆瓣)		0	0	http://book.douban.com/subject/3089534
+        Framed (豆瓣)		0	0	http://book.douban.com/subject/3089536
+页面不存在		0	0	http://book.douban.com/subject/3089554
+        Clear Lake (豆瓣)		0	0	http://book.douban.com/subject/3089558
+        水果城 (豆瓣)		9.1	621	http://book.douban.com/subject/3089559
+        拉特伯格强盗 (豆瓣)		0	0	http://book.douban.com/subject/3089564
+        Gunman's Walk (豆瓣)		0	0	http://book.douban.com/subject/3089572
+        总统杀局 (豆瓣)		7.0	23252	http://book.douban.com/subject/3089571
+        The Big Cat (豆瓣)		0	0	http://book.douban.com/subject/3089583
+        Swing Parade of 1946 (豆瓣)		0	0	http://book.douban.com/subject/3089601
+        Dark Alibi (豆瓣)		0	0	http://book.douban.com/subject/3089610
+        Robbin' in da Hood (豆瓣)		0	0	http://book.douban.com/subject/3089623
+        Bad Guys (豆瓣)		0	0	http://book.douban.com/subject/3089626
+        Selma (豆瓣)		0	0	http://book.douban.com/subject/3089637
+        塞尔玛 (豆瓣)		0	0	http://book.douban.com/subject/3089638
+        Pierre Pierre (豆瓣)		0	0	http://book.douban.com/subject/3089640
+        Fag Hag (豆瓣)		0	0	http://book.douban.com/subject/3089642
+        I Want to ___ Your Sister (豆瓣)		0	0	http://book.douban.com/subject/3089646
+        Creatures from the Pink Lagoon (豆瓣)		0	0	http://book.douban.com/subject/3089651
+        The Gospel of Lou (豆瓣)		0	0	http://book.douban.com/subject/3089648
+        Spaced Invaders (豆瓣)		0	0	http://book.douban.com/subject/3089672
+        灾难大电影 (豆瓣)		4.8	4762	http://book.douban.com/subject/3089689
+        Contrary Condor (豆瓣)		0	0	http://book.douban.com/subject/3089693
+        这一次，我们去赢 (豆瓣)		0	0	http://book.douban.com/subject/3089695
+        The Eyes Have It (豆瓣)		0	0	http://book.douban.com/subject/3089697
+        勇气与光荣 (豆瓣)		0	0	http://book.douban.com/subject/3089700
+        Rambonomics (豆瓣)		0	0	http://book.douban.com/subject/3089707
+        Lovers, Liars and Lunatics (豆瓣)		0	0	http://book.douban.com/subject/3089721
+        适应：兰波的生存装备 (豆瓣)		0	0	http://book.douban.com/subject/3089737
+        低级学习 (豆瓣)		5.1	124	http://book.douban.com/subject/3089744
+        我的爸爸不是贼 (豆瓣)		0	0	http://book.douban.com/subject/3089752
+        Broadway by Light (豆瓣)		0	0	http://book.douban.com/subject/3089777
+        Exploding Plastic Inevitable (豆瓣)		0	0	http://book.douban.com/subject/3089779
+        希特勒的阴谋 (豆瓣)		0	0	http://book.douban.com/subject/3089891
+        宛如飞翔 (豆瓣)		0	0	http://book.douban.com/subject/3089932
+        No Surrender (豆瓣)		0	0	http://book.douban.com/subject/3089977
+        Girls Town (豆瓣)		0	0	http://book.douban.com/subject/3089980
+        老爸的回忆 (豆瓣)		0	0	http://book.douban.com/subject/3089981
+        Last Call (豆瓣)		0	0	http://book.douban.com/subject/3089984
+        Trash (豆瓣)		0	0	http://book.douban.com/subject/3089986
+        逃妻七日情 (豆瓣)		6.4	105	http://book.douban.com/subject/3089988
+        Some Girl (豆瓣)		0	0	http://book.douban.com/subject/3089983
+        个性导演论 (豆瓣)		0	0	http://book.douban.com/subject/3089991
+        Lost in Plainview (豆瓣)		0	0	http://book.douban.com/subject/3089995
+        The Singles 2nd Ward (豆瓣)		0	0	http://book.douban.com/subject/3089997
+        烤肉上的浸礼教徒 (豆瓣)		0	0	http://book.douban.com/subject/3090002
+        Never Among Friends (豆瓣)		0	0	http://book.douban.com/subject/3090013
+        Kiss of Fire (豆瓣)		0	0	http://book.douban.com/subject/3090008
+        New Port South (豆瓣)		0	0	http://book.douban.com/subject/3090018
+        彩虹族 (豆瓣)		0	0	http://book.douban.com/subject/3090021
+        Valley of the Heart's Delight (豆瓣)		0	0	http://book.douban.com/subject/3090022
+        Just Hustle (豆瓣)		0	0	http://book.douban.com/subject/3090024
+        Boardwalk Poets (豆瓣)		0	0	http://book.douban.com/subject/3090025
+        Our Fathers (豆瓣)		0	0	http://book.douban.com/subject/3090027
+        The Near Room (豆瓣)		0	0	http://book.douban.com/subject/3090035
+        速音小子索尼克的地下冒险 (豆瓣)		8.2	427	http://book.douban.com/subject/3090043
+        刺猬索尼克历险记 (豆瓣)		8.7	611	http://book.douban.com/subject/3090047
+        被撕裂的心灵 (豆瓣)		0	0	http://book.douban.com/subject/3090058
+        修女爱莉斯 (豆瓣)		0	0	http://book.douban.com/subject/3090070
+        San Ernesto nació en La Higuera (豆瓣)		0	0	http://book.douban.com/subject/3090076
+        罗曼-卡门 (豆瓣)		0	0	http://book.douban.com/subject/3090082
+        Sin piedras (豆瓣)		0	0	http://book.douban.com/subject/3090096
+        Las variaciones Marker (豆瓣)		0	0	http://book.douban.com/subject/3090098
+        我们的马岛 (豆瓣)		0	0	http://book.douban.com/subject/3090110
+        古巴纪实 (豆瓣)		0	0	http://book.douban.com/subject/3090113
+        She Dances Alone (豆瓣)		0	0	http://book.douban.com/subject/3090185
+        Loop (豆瓣)		0	0	http://book.douban.com/subject/3090201
+        刺猬索尼克：大电影 (豆瓣)		0	0	http://book.douban.com/subject/3090205
+        The Jump (豆瓣)		0	0	http://book.douban.com/subject/3090207
+        Five Seconds to Spare (豆瓣)		0	0	http://book.douban.com/subject/3090212
+        The Jolly Boys' Last Stand (豆瓣)		0	0	http://book.douban.com/subject/3090216
+        Shiner (豆瓣)		0	0	http://book.douban.com/subject/3090223
+        红色的果实 (豆瓣)		4.1	31	http://book.douban.com/subject/3090219
+        犬之旅店 (豆瓣)		0	0	http://book.douban.com/subject/3090240
+        Twist of Fate (豆瓣)		0	0	http://book.douban.com/subject/3090255
+        Bonanno: A Godfather's Story (豆瓣)		0	0	http://book.douban.com/subject/3090266
+        Pressure Point (豆瓣)		0	0	http://book.douban.com/subject/3090274
+        Obsessed (豆瓣)		0	0	http://book.douban.com/subject/3090321
+        里根家族 (豆瓣)		0	0	http://book.douban.com/subject/3090326
+        婴儿待售 (豆瓣)		0	0	http://book.douban.com/subject/3090332
+        Tipping Point (豆瓣)		0	0	http://book.douban.com/subject/3090336
+        Hatley High (豆瓣)		0	0	http://book.douban.com/subject/3090338
+        Girl's Best Friend (豆瓣)		0	0	http://book.douban.com/subject/3090341
+        舞池战场 (豆瓣)		0	0	http://book.douban.com/subject/3090346
+        101 Ways (The Things a Girl Will Do to Keep Her Volvo) (豆瓣)		0	0	http://book.douban.com/subject/3090348
+        Confess (豆瓣)		0	0	http://book.douban.com/subject/3090353
+        The Memsahib (豆瓣)		0	0	http://book.douban.com/subject/3090356
+        Lovely by Surprise (豆瓣)		0	0	http://book.douban.com/subject/3090358
+        Almost Partners (豆瓣)		0	0	http://book.douban.com/subject/3090362
+        Murder at Devil's Glen (豆瓣)		0	0	http://book.douban.com/subject/3090364
+        Calling Bobcat (豆瓣)		0	0	http://book.douban.com/subject/3090365
+        呼救无门 (豆瓣)		5.8	451	http://book.douban.com/subject/3090368
+        Family Pictures (豆瓣)		0	0	http://book.douban.com/subject/3090388
+        银河飘流华尔分 (豆瓣)		0	0	http://book.douban.com/subject/3090409
+        欲望锁链 (豆瓣)		0	0	http://book.douban.com/subject/3090420
+        Henry Hill (豆瓣)		0	0	http://book.douban.com/subject/3090428
+        The Silent Spring of Rachel Carson (豆瓣)		0	0	http://book.douban.com/subject/3090433
+        Swimming (豆瓣)		0	0	http://book.douban.com/subject/3090434
+        Sharp Teeth (豆瓣)		0	0	http://book.douban.com/subject/3090435
+        The Innocent Man (豆瓣)		0	0	http://book.douban.com/subject/3090437
+        The Game of Sunken Places (豆瓣)		0	0	http://book.douban.com/subject/3090438
+        1776 (豆瓣)		0	0	http://book.douban.com/subject/3090440
+        All My Life for Sale (豆瓣)		0	0	http://book.douban.com/subject/3090443
+        Destined to Witness: Growing Up Black in Nazi Germany (豆瓣)		0	0	http://book.douban.com/subject/3090445
+        他们偷走蒙娜丽莎的那天 (豆瓣)		0	0	http://book.douban.com/subject/3090447
+        大卫与歌力亚 (豆瓣)		0	0	http://book.douban.com/subject/3090450
+        Courthouse Over White House (豆瓣)		0	0	http://book.douban.com/subject/3090449
+        The Buck Rogers Fan Club (豆瓣)		0	0	http://book.douban.com/subject/3090451
+        波西·杰克逊与神火之盗 (豆瓣)		5.9	33006	http://book.douban.com/subject/3090455
+        Wrestling with Alligators (豆瓣)		0	0	http://book.douban.com/subject/3090459
+        Looking Out for Eleanor (豆瓣)		0	0	http://book.douban.com/subject/3090460
+        Sanctuary Ranch (豆瓣)		0	0	http://book.douban.com/subject/3090461
+        The Rotten School (豆瓣)		0	0	http://book.douban.com/subject/3090462
+        A Half of Two Lives (豆瓣)		0	0	http://book.douban.com/subject/3090464
+        The Ice Man (豆瓣)		0	0	http://book.douban.com/subject/3090465
+        The Vatican Connection (豆瓣)		0	0	http://book.douban.com/subject/3090466
+        Blood of Heaven (豆瓣)		0	0	http://book.douban.com/subject/3090468
+        King of the Nudies (豆瓣)		0	0	http://book.douban.com/subject/3090467
+        Double Cross (豆瓣)		0	0	http://book.douban.com/subject/3090473
+        阿富汗：危机大地 (豆瓣)		0	0	http://book.douban.com/subject/3090518
+        小小爱因斯坦-开始学手语 (豆瓣)		0	0	http://book.douban.com/subject/3090523
+        小小爱因斯坦-摇篮曲 (豆瓣)		0	0	http://book.douban.com/subject/3090526
+        突色拉瓦 (豆瓣)		0	0	http://book.douban.com/subject/3090532
+        Baby Einstein: Discovering Shapes - Circles, Squares and More! (豆瓣)		0	0	http://book.douban.com/subject/3090533
+        Baby Einstein: Baby's First Moves (豆瓣)		0	0	http://book.douban.com/subject/3090540
+        Baby Einstein: Baby Wordsworth (豆瓣)		0	0	http://book.douban.com/subject/3090538
+        小小爱因斯坦-动物世界 (豆瓣)		0	0	http://book.douban.com/subject/3090541
+        小小爱因斯坦-行进中 (豆瓣)		0	0	http://book.douban.com/subject/3090544
+        小小爱因斯坦-常见动物 (豆瓣)		0	0	http://book.douban.com/subject/3090547
+        Baby Einstein: Meet the Orchestra (豆瓣)		0	0	http://book.douban.com/subject/3090549
+        Baby Einstein: Baby Noah (豆瓣)		0	0	http://book.douban.com/subject/3090553
+        Baby Einstein: Baby Shakespeare World of Poetry (豆瓣)		0	0	http://book.douban.com/subject/3090551
+        Baby Einstein: Baby Santa's Music Box (豆瓣)		0	0	http://book.douban.com/subject/3090552
+        Baby Einstein: Baby Galileo Discovering the Sky (豆瓣)		0	0	http://book.douban.com/subject/3090555
+        Baby Einstein: Baby Newton Discovering Shapes (豆瓣)		0	0	http://book.douban.com/subject/3090554
+        小小爱因斯坦-小小水世界 (豆瓣)		0	0	http://book.douban.com/subject/3090564
+        小小爱因斯坦-小小莫奈 (豆瓣)		0	0	http://book.douban.com/subject/3090566
+        小小爱因斯坦-小小农场 (豆瓣)		0	0	http://book.douban.com/subject/3090567
+        小小爱因斯坦-小小达芬奇 (豆瓣)		0	0	http://book.douban.com/subject/3090568
+        小小爱因斯坦-有趣的数字 (豆瓣)		0	0	http://book.douban.com/subject/3090560
+        小小爱因斯坦-小小梵高的色彩世界 (豆瓣)		0	0	http://book.douban.com/subject/3090562
+        喜悦之泪 (豆瓣)		6.2	305	http://book.douban.com/subject/3090599
+        新色暦大奥秘話　愛戯お仕込処 (豆瓣)		0	0	http://book.douban.com/subject/3090712
+        （秘）大奥外伝 尼寺淫の門 (豆瓣)		0	0	http://book.douban.com/subject/3090718
+        周六夜现场 (豆瓣)		7.6	73	http://book.douban.com/subject/3090811
+        笃姬 (豆瓣)		8.8	8156	http://book.douban.com/subject/3090868
+        射雕英雄传 (豆瓣)		7.1	7711	http://book.douban.com/subject/3090983
+        亚当的肋骨 (豆瓣)		0	0	http://book.douban.com/subject/3090989
+        Ball in the House (豆瓣)		0	0	http://book.douban.com/subject/3090982
+        The Gift: Life Unwrapped (豆瓣)		0	0	http://book.douban.com/subject/3090996
+        Gargantua (豆瓣)		0	0	http://book.douban.com/subject/3090998
+        野鸢尾 (豆瓣)		0	0	http://book.douban.com/subject/3091002
+        杀死塞尔达·斯派克斯 (豆瓣)		0	0	http://book.douban.com/subject/3091001
+        银河铁道物语 (豆瓣)		7.9	139	http://book.douban.com/subject/3091012
+        潜艇间谍战 (豆瓣)		0	0	http://book.douban.com/subject/3091027
+        远东第一监狱 (豆瓣)		0	0	http://book.douban.com/subject/3091045
+        安定医院 (豆瓣)		7.0	109	http://book.douban.com/subject/3091044
+        大英雄狄青 (豆瓣)		7.4	232	http://book.douban.com/subject/3091047
+        没有爸爸的村庄 (豆瓣)		0	0	http://book.douban.com/subject/3091046
+        爱情狗 (豆瓣)		0	0	http://book.douban.com/subject/3091050
+        不要追究过去 (豆瓣)		6.5	33	http://book.douban.com/subject/3091049
+        赤松威龙 (豆瓣)		0	0	http://book.douban.com/subject/3091051
+        事与愿违 (豆瓣)		0	0	http://book.douban.com/subject/3091053
+        寻找失去的声音 (豆瓣)		0	0	http://book.douban.com/subject/3091055
+        冲突之后 (豆瓣)		0	0	http://book.douban.com/subject/3091056
+        沉默后死去 (豆瓣)		0	0	http://book.douban.com/subject/3091057
+        惩罚 (豆瓣)		0	0	http://book.douban.com/subject/3091059
+        与众不同的老麦 (豆瓣)		0	0	http://book.douban.com/subject/3091060
+        梦游者 (豆瓣)		0	0	http://book.douban.com/subject/3091062
+        心肝宝贝 (豆瓣)		0	0	http://book.douban.com/subject/3091061
+        横渡北冰洋 (豆瓣)		0	0	http://book.douban.com/subject/3091063
+        忍者非洲行 (豆瓣)		0	0	http://book.douban.com/subject/3091064
+        告诉我为何？ (豆瓣)		0	0	http://book.douban.com/subject/3091066
+        南北医生 (豆瓣)		0	0	http://book.douban.com/subject/3091067
+        格拉斯哥的死对头 (豆瓣)		0	0	http://book.douban.com/subject/3091058
+        贸易平衡 (豆瓣)		0	0	http://book.douban.com/subject/3091068
+        俄罗斯新贵 (豆瓣)		0	0	http://book.douban.com/subject/3091069
+        香蕉仔 (豆瓣)		0	0	http://book.douban.com/subject/3091065
+        Lucy! TV's Comedy Queen (豆瓣)		0	0	http://book.douban.com/subject/3091105
+        The Ice House (豆瓣)		0	0	http://book.douban.com/subject/3091112
+        The Canterville Ghost (豆瓣)		0	0	http://book.douban.com/subject/3091101
+        Chesty Anderson, US Navy (豆瓣)		0	0	http://book.douban.com/subject/3091127
+        哈瑞的夏天 (豆瓣)		0	0	http://book.douban.com/subject/3091121
+        How to Beat the High Co$t of Living (豆瓣)		0	0	http://book.douban.com/subject/3091130
+        第一家族 (豆瓣)		0	0	http://book.douban.com/subject/3091134
+        Mr. Write (豆瓣)		0	0	http://book.douban.com/subject/3091147
+        P.I. Private Investigations (豆瓣)		0	0	http://book.douban.com/subject/3091151
+        Caroline at Midnight (豆瓣)		0	0	http://book.douban.com/subject/3091145
+        超越亲情 (豆瓣)		8.9	27	http://book.douban.com/subject/3091179
+        菲亚 (豆瓣)		0	0	http://book.douban.com/subject/3091180
+        人人都恨克里斯 第三季 (豆瓣)		8.9	1019	http://book.douban.com/subject/3091194
+        鬼面忍者 (豆瓣)		0	0	http://book.douban.com/subject/3091202
+        人人都恨克里斯 第二季 (豆瓣)		8.9	1218	http://book.douban.com/subject/3091200
+        电影樱桃小丸子 大野君和杉山君 (豆瓣)		8.9	3021	http://book.douban.com/subject/3091208
+        凤凰王子 (豆瓣)		0	0	http://book.douban.com/subject/3091217
+        人烟之岛 (豆瓣)		5.4	1294	http://book.douban.com/subject/3091271
+页面不存在		0	0	http://book.douban.com/subject/3091433
+页面不存在		0	0	http://book.douban.com/subject/3091479
+        周末大作战 (豆瓣)		0	0	http://book.douban.com/subject/3091487
+        万卡的单车 (豆瓣)		0	0	http://book.douban.com/subject/3091491
+        野狼防卫战 (豆瓣)		0	0	http://book.douban.com/subject/3091493
+        Click: The Calendar Girl Killer (豆瓣)		0	0	http://book.douban.com/subject/3091497
+        Hidden Obsession (豆瓣)		0	0	http://book.douban.com/subject/3091499
+        Ford: The Man and the Machine (豆瓣)		0	0	http://book.douban.com/subject/3091503
+        安塔瑞斯事件 (豆瓣)		0	0	http://book.douban.com/subject/3091509
+        O Escolhido de Iemanjá (豆瓣)		0	0	http://book.douban.com/subject/3091501
+        Eyes of Fire; Feel the Heat (豆瓣)		0	0	http://book.douban.com/subject/3091511
+        The Last Hit (豆瓣)		0	0	http://book.douban.com/subject/3091514
+        Mad Cowgirl (豆瓣)		0	0	http://book.douban.com/subject/3091519
+        Mod Fuck Explosion (豆瓣)		0	0	http://book.douban.com/subject/3091520
+        生化战士2 (豆瓣)		0	0	http://book.douban.com/subject/3091521
+        The Clown at Midnight (豆瓣)		0	0	http://book.douban.com/subject/3091528
+        Spark (豆瓣)		0	0	http://book.douban.com/subject/3091535
+        Getting Off (豆瓣)		0	0	http://book.douban.com/subject/3091541
+        惊情越狱夜 (豆瓣)		0	0	http://book.douban.com/subject/3091544
+        剧院女王 (豆瓣)		6.7	36	http://book.douban.com/subject/3091543
+        Everyday People (豆瓣)		0	0	http://book.douban.com/subject/3091547
+        Breakfast with Einstein (豆瓣)		0	0	http://book.douban.com/subject/3091552
+        Shooting Vegetarians (豆瓣)		0	0	http://book.douban.com/subject/3091546
+        邪恶森林 (豆瓣)		3.0	100	http://book.douban.com/subject/3091554
+        The Journeyman (豆瓣)		0	0	http://book.douban.com/subject/3091565
+        英雄热卖 (豆瓣)		0	0	http://book.douban.com/subject/3091569
+        圣诞传说 (豆瓣)		7.7	5214	http://book.douban.com/subject/3091572
+        复仇女神 (豆瓣)		0	0	http://book.douban.com/subject/3091699
+        Writing on the Wall (豆瓣)		0	0	http://book.douban.com/subject/3091708
+        Catwalk (豆瓣)		0	0	http://book.douban.com/subject/3091709
+        36个视角看圣卢普山 (豆瓣)		6.6	123	http://book.douban.com/subject/3091710
+        Mariachi Gringo (豆瓣)		0	0	http://book.douban.com/subject/3091712
+        Stop Huntingdon Animal Cruelty (豆瓣)		0	0	http://book.douban.com/subject/3091713
+        The Pig People (豆瓣)		0	0	http://book.douban.com/subject/3091706
+        Ancient History (豆瓣)		0	0	http://book.douban.com/subject/3091711
+        思春少妇 (豆瓣)		6.0	721	http://book.douban.com/subject/3091716
+        Stolen Innocence (豆瓣)		0	0	http://book.douban.com/subject/3091714
+        Wedding Banned (豆瓣)		0	0	http://book.douban.com/subject/3091717
+        The Man Who Fell to Earth (豆瓣)		0	0	http://book.douban.com/subject/3091721
+        Untitled Balkan War Drama (豆瓣)		0	0	http://book.douban.com/subject/3091719
+        Shinobi (豆瓣)		0	0	http://book.douban.com/subject/3091727
+        法国姑娘 (豆瓣)		7.1	61	http://book.douban.com/subject/3091751
+        湍流 (豆瓣)		7.5	255	http://book.douban.com/subject/3091791
+        瘾君子 (豆瓣)		0	0	http://book.douban.com/subject/3091839
+        非洲历险记 (豆瓣)		8.2	102	http://book.douban.com/subject/3091842
+        Cow-Cow Boogie (豆瓣)		0	0	http://book.douban.com/subject/3091863
+        Clubland (豆瓣)		0	0	http://book.douban.com/subject/3091874
+        Reeseville (豆瓣)		0	0	http://book.douban.com/subject/3091877
+        幸运13 (豆瓣)		0	0	http://book.douban.com/subject/3091880
+        At Home with the Webbers (豆瓣)		0	0	http://book.douban.com/subject/3091884
+        Cold Hearts (豆瓣)		0	0	http://book.douban.com/subject/3091886
