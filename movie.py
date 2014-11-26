@@ -69,8 +69,41 @@ def get_IP_PORT():
 
 	return IP_PORT_DICT
 
-IP_PORT_DICT = get_IP_PORT()
-print(IP_PORT_DICT)
+
+def get_IP_PORT2():
+	IP_PORT_DICT = {}
+	url = "http://www.56ads.com/article/7112.html"
+	http = httplib2.Http(cache=None, timeout = 10)
+	try:
+		response, move_content = http.request(url)
+	except socket.timeout:
+		print("can't access %s"%url)
+		return None
+	soup = BeautifulSoup(move_content)
+	match = soup.findAll('p')
+	pat=re.compile('(\d+\.\d+\.\d+\.\d+)\s+(\d+)')
+	pat2=re.compile('(\d+\.\d+\.\d+\.\d+)\:(\d+)')
+	for line in match:
+		new_str = line.get_text()
+		new_str = new_str.split("\r\n")
+		for new_line in new_str:
+			if new_line == None:
+				continue
+			match2 = pat.search(new_line)
+			if match2:
+				ip=match2.group(1)
+				port=match2.group(2)
+				IP_PORT_DICT.setdefault(ip,port)
+			match3 = pat2.search(new_line)
+			if match3:
+				ip=match3.group(1)
+				port=match3.group(2)
+				IP_PORT_DICT.setdefault(ip,port)
+	return IP_PORT_DICT
+	
+
+#IP_PORT_DICT = get_IP_PORT()
+#print(IP_PORT_DICT)
 #IP_PORT_DICT={'122.96.59.102':82,'211.138.121.36':81,'211.151.50.179':81,'211.138.121.35':83,'211.138.121.38':81,
 #		'111.1.36.12':80,'116.228.55.217':80,'183.129.198.231':80,'122.96.59.99':82,'114.80.136.220':7780,
 #		'111.1.36.133':80,'61.174.9.96':8080,'120.198.230.31':80,'114.112.69.21':81,'114.80.136.112':7780,
@@ -78,16 +111,6 @@ print(IP_PORT_DICT)
 #		'111.1.36.27':83,'114.80.136.22':7780,'111.1.36.21':80,'221.130.162.77':84,'122.96.59.106':82,
 #		'222.89.155.62':9000}
 #
-http_list = []
-for host,port in IP_PORT_DICT.items():
-	proxy_info = httplib2.ProxyInfo(
-			proxy_type = 3,
-			proxy_host = host,
-			proxy_port = int(port),
-			proxy_rdns = True
-			)
-	http = httplib2.Http(cache=None, timeout = 10, proxy_info = proxy_info)
-	http_list.append(http)
 
 #proxy_info15 = httplib2.ProxyInfo(
 #		proxy_type = 3,
@@ -96,7 +119,6 @@ for host,port in IP_PORT_DICT.items():
 #		proxy_rdns = True
 #		)
 
-http_len = len(http_list)
 
 COOKIE_LIST = [
 		'bid="zCz8LjpyvG4"; ll="118201"; viewed="1000208_6025284_6886607"; __utma=30149280.2104381519.1362022077.1392470437.1392474034.46; __utmb=30149280.1.10.1392474034; __utmc=30149280; __utmz=30149280.1392470437.45.26.utmcsr=douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/; __utmv=30149280.4684; __utma=81379588.2005357480.1365138966.1377528892.1392474034.7; __utmb=81379588.1.10.1392474034; __utmc=81379588; __utmz=81379588.1377528892.6.6.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)',
@@ -274,6 +296,7 @@ def worker():
 		else:
 			print ("unknow type:", arguments[0])
 		print (value_str)
+		work_queue.task_done()
 
 work_queue = Queue()
 for i in range(5):
@@ -281,24 +304,60 @@ for i in range(5):
 	t.daemon = True
 	t.start()
 
+
+def get_http_list(ip_port_dict):
+	http_list = []
+	for host,port in ip_port_dict.items():
+		proxy_info = httplib2.ProxyInfo(
+			proxy_type = 3,
+			proxy_host = host,
+			proxy_port = int(port),
+			proxy_rdns = True
+			)
+		http = httplib2.Http(cache=None, timeout = 10, proxy_info = proxy_info)
+		http_list.append(http)
+
+	return http_list
+
+
 def main():
-	IP_PORT_DICT = {}
+	switch = True
+	IP_PORT_DICT = get_IP_PORT()
+	print(IP_PORT_DICT)
+	http_list = get_http_list(IP_PORT_DICT)
+	http_len = len(http_list)
 	url = "http://book.douban.com/subject/"
 	first = 3000001
 	#first = 4202001
 	#first = 4202900
 	count = 2000000
-	i = 234226
+	i = 402069
+	j = 0
 	#IP_PORT_DICT = get_IP_PORT()
 	#print (IP_PORT_DICT)
 	#for i in range(count):
 	while i < count:
 		tmp_count = i + first
 		tmp_url = url + str(tmp_count)
+		if (j == 5000 ):
+			work_queue.join()
+			if switch:
+				print("goto get_IP_PORT2")
+				IP_PORT_DICT = get_IP_PORT2()
+				switch = False
+			else:
+				print("goto get_IP_PORT")
+				IP_PORT_DICT = get_IP_PORT()
+				switch = True
+			print(IP_PORT_DICT)
+			http_list = get_http_list(IP_PORT_DICT)
+			http_len = len(http_list)
+			j = 0
 		http_info = http_list[tmp_count%http_len]
 		headers = headers_list[tmp_count%headers_len]
 		work_queue.put((tmp_url, http_info, headers))
 		i = i + 1
+		j = j + 1
 
 	work_queue.join()
 	MOVE.close()
